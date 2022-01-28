@@ -701,6 +701,7 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | Code                               | Supported Models       | Controller |
 | ---------------------------------- | ---------------------- | ---------- |
 | [2740](../codes/climate/2740.json) | 5000i		          | Broadlink  |
+| [2741](../codes/climate/2741.json) | EHP 6.0 AA         | Broadlink  |
 
 #### Tristar
 | Code                               | Supported Models       | Controller |
